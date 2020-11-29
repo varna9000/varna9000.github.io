@@ -14,7 +14,7 @@ author: Кало
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  За мен: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
@@ -190,7 +190,7 @@ date_format: "%B %-d, %Y"
 timezone: "Europe/Sofia"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /:day-:month-:year-:title/
 paginate: 5
 
 kramdown:
